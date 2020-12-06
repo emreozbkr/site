@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>MyPersonalWebsite</title>
+
+  <style>
+body{
+  background-color:#EAF6F6;
+}
+
+
+
+
+
+
+  </style>
+
+
+</head>
+
+<body style="background-color: #EAF6F6;">
+
+  <table>
+    <tr>
+      <td><img src="1535013550281.jpg" alt="ProfilePicture"></td>
+      <td>
+        <h1>Emrecan Özbakır</h1>
+        <p>
+          <h3><emp>I am student and web developer</emp></h3>
+        </p>
+        <p>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <hr>
+  <h3>Education Period</h3>
+  <ul>
+    <li>Primary School</li><!-- noktalı yazıyor -->
+    <ul>Üç Eylül İlköğretim Okulu</ul>
+    <li>High School
+
+      <ul>Atatürk Anadolu Lisesi</ul>
+    <li>University
+      <ul>Eskişehir Osmangazi University</ul>
+    </li>
+
+    </li>
+  </ul>
+  <hr>
+  <h3>My Hobbies</h3>
+  <ul>
+    <li>Playing Outside Games
+      <ul>
+        <li>Playing Computer Games</li>
+        <li>Playing Basketball</li>
+      </ul>
+
+
+    </li />
+  </ul>
+  <li>Studying
+    <ul>
+      <li>Math</li>
+      <li>Prograamming</li>
+      <li>Science</li>
+    </ul>
+  </li>
+  <hr>
+  <h3>Work experience</h3>
+  <table cellspacing="5 border=" 2">
+    <thead>
+      <th>Dates</th>
+      <th>Work</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>10.07.2020</td>
+        <td>BBTK web ❤</td>
+      </tr>
+      <tr>
+        <td>17.08.2020</td>
+        <td> <a href="https://studio.youtube.com/channel/UCb_spsFfk_PpbD5tX7cQBUQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D">YouTube</a></td>
+
+      </tr>
+    </tbody>
+
+  </table>
+  <hr>
+  <table cellspacing="5" border="2">
+    <tr>
+      <td>
+        <table>
+          <thead>
+            <th>Name of the skill</th>
+            <th>Mark of your skill</th>
+          </thead>
+          <tbody>
+            <tr>
+              <td>IOs Devolepor</td>
+              <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>Web Devolepor</td>
+              <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>Programing Devolepor </td>
+              <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <table>
+      <thead>
+        <th>Name of the skill</th>
+        <th>Mark of your skill</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Calculus</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Analytical geometry</td>
+          <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Abstract mathematics</td>
+          <td>⭐⭐⭐</td>
+      </tbody>
+    </table>
+    </td>
+    </tr>
+
+  </table>
+
+
+</body>
+
+</html>
